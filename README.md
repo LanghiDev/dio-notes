@@ -1,5 +1,5 @@
 # Notes from DIO's courses
-In this repository I'm leaving my notes from the DIO courses.
+In this repository I'm leaving my notes from the DIO courses. That's not good explications about the courses, but only my personal annotations.
 
 ## What is the DIO?
 Digital Innovation One is a plataform that contains many courses and bootcamps, openning oportunities to people work in great companies like systems developers.
